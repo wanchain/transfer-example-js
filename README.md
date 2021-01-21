@@ -1,5 +1,7 @@
 # TRANSFER EXAMPLE
 
+A simple example to send transactions on Wanchain
+
 ## JavaScript
 
 ```
